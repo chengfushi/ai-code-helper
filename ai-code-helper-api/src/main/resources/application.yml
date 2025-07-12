@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: ai-code-helper-api
+  profiles:
+    active: local
